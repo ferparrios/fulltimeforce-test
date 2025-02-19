@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Welcome to Lecafé
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This app was created with Expo for React Native
 
 ## Get started
 
@@ -15,37 +15,25 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+   o 
 
-In the output, you'll find options to open the app in a
+   ```bash
+   npm run start
+   ```
+
+You able to choose in what device you want to run the app
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+# Questions or Comments
+Your open to email me or sending me any question that you have
 
-When you're ready, run:
+# Reference Figma
 
-```bash
-npm run reset-project
-```
+- [Figma Link](https://www.figma.com/proto/VvIhHkdGfLYjEkU5y7s5CJ/Mobile-Test-App?node-id=1247-5701&t=2In4vS3XEw8E8v5b-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1240%3A71)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# fulltimeforce-test
+# Created by Fernando Paredes Rios for FulltimeForce
