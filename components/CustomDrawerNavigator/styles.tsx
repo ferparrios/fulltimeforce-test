@@ -42,8 +42,8 @@ export const RouteContainer = styled.View`
 `;
 
 export const RouteImage = styled(Image)`
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
 `;
 
 export const RouteText = styled.Text`
